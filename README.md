@@ -34,7 +34,7 @@ I'm a **BSc Computer Science Graduate** from **SDM Degree College, Ujire** and a
 - Hindi, Kannada, Tulu (varied proficiency)
 
 ### 📫 Find Me Online
-- [Instagram (@shreyas_s_poojary)](https://www.instagram.com/shreyas_s_poojary)[3]
-- [Instagram (@shreyas.p)](https://www.instagram.com/shreyas.p)[4]
+- [Instagram (@_mr_kotnottu)](https://www.instagram.com/_mr_kotnottu_?igsh=MWVrd2s4NHp2ZmVleA==)[3]
+
 
 ***
