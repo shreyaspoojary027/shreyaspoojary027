@@ -1,4 +1,4 @@
-Here is your updated GitHub profile README entry incorporating your current internship position:
+
 
 ***
 
@@ -30,7 +30,7 @@ I'm a **BSc Computer Science Graduate** from **SDM Degree College, Ujire** and a
 - Git & GitHub
 
 ### 🌏 Languages
-- English (fluent)
+- English 
 - Hindi, Kannada, Tulu (varied proficiency)
 
 ### 📫 Find Me Online
@@ -38,10 +38,3 @@ I'm a **BSc Computer Science Graduate** from **SDM Degree College, Ujire** and a
 - [Instagram (@shreyas.p)](https://www.instagram.com/shreyas.p)[4]
 
 ***
-
-You may add this to your README to highlight your current role and experience. Let me know if you want it more detailed or styled differently!
-
-[1](https://en.wikipedia.org/wiki/SDM_College,_Ujire)
-[2](https://www.sdmesociety.in/sdm-degree-college-ujire/)
-[3](https://www.instagram.com/shreyas_s_poojary/?hl=en)
-[4](https://www.instagram.com/shreyas.p/)
