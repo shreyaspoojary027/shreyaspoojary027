@@ -28,6 +28,7 @@ I'm a **BSc Computer Science Graduate** from **SDM Degree College, Ujire** and a
 - Data Visualization: Pandas, Matplotlib, Seaborn
 - Statistical Analysis
 - Git & GitHub
+- video editor
 
 ### 🌏 Languages
 - English 
